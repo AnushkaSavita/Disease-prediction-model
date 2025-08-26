@@ -1,4 +1,7 @@
 **Heart Disease Prediction - Machine Learning Project**
+## 🖼️ Project Workflow
+![Project Workflow]("C:\Users\Asus\OneDrive\Desktop\image.jpg")
+
 📌 Overview
 
 This project focuses on predicting the likelihood of heart disease using the UCI Heart Disease dataset.
