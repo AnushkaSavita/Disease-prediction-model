@@ -1,6 +1,9 @@
 **Heart Disease Prediction - Machine Learning Project**
 ## 🖼️ Project Workflow
-![Project Workflow]("image\image.jpg")
+![Heart Disease Prediction](image/image.jpg)
+
+# Heart Disease Prediction - Machine Learning Project
+
 
 📌 Overview
 
